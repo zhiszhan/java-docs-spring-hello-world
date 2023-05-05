@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'zhishouFirstAppService'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2194B0443EF0402BBDA1843BB0B47878 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3E57CDDE85144AB8033B21499E21BFA }}
           package: '*.war'
